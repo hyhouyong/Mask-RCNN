@@ -206,7 +206,7 @@ def get_ax(rows=1, cols=1, size=8):
 # Training dataset
 
 # 基础设置
-dataset_root_path = "F:\\Mask_RCNN-master--TrainOwerDatset-master\\Mask_RCNN-master--TrainOwerDatset-master\\samples\\shapes\\train_data\\"
+dataset_root_path = "train_data\\"
 img_floder = dataset_root_path + "pic"
 mask_floder = dataset_root_path + "cv2_mask"
 # 取消了mask_floder路径
