@@ -24,6 +24,8 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
  
  3.Download trained weights
  ===
+    BaiDuYun:https://pan.baidu.com/s/1CmcfVleyw7QpVZRo3JxS2w code:tf7f
+    
     
  4.Train
  ===
