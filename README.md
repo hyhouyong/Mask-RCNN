@@ -15,7 +15,7 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
     mkdir train_data
     train_data
         |-json
-        |-labelme_json（）
+        |-labelme_json
         |-pic
         |-cv2_mask
  3.Download trained weights
