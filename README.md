@@ -18,8 +18,9 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
         |-labelme_json
         |-pic
         |-cv2_mask
- ====
- Details:(https://www.cnblogs.com/houyong/p/10266228.html)
+
+* Details:(https://www.cnblogs.com/houyong/p/10266228.html)
+ 
  3.Download trained weights
  ===
     
