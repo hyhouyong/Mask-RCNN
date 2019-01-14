@@ -24,8 +24,8 @@ from PIL import Image
 import yaml
 
 # Root directory of the project
-ROOT_DIR = os.path.abspath("../../")
-# ROOT_DIR = os.getcwd()
+# ROOT_DIR = os.path.abspath("../../")
+ROOT_DIR = os.getcwd()
 iter_num = 0
 
 # Import Mask RCNN
