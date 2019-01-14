@@ -6,4 +6,25 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
 
 1.Environment
 ===
+    Windows/Linux + Keras >= 2.0.8 + TensorFlow >= 1.3.0
     pip install -r requirements.txt
+2.Custom Train Data
+===
+    pip install labelme
+    labelme
+    mkdir train_data
+    train_data
+        |-json
+        |-labelme_json（）
+        |-pic
+        |-cv2_mask
+ 3.Download trained weights
+ ===
+    
+ 4.Train
+ ===
+    python train_shape.py
+ 5.Test
+ ===
+    python test_shape.py
+    
