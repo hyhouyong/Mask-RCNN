@@ -71,7 +71,7 @@ ROOT_DIR = os.getcwd()
 # MODEL_DIR = os.path.join(ROOT_DIR, "logs")
 MODEL_DIR='./'
 
-# Directory of images to run detection on
+# 将想要测试的图片放入images文件夹中
 IMAGE_DIR = os.path.join(ROOT_DIR, "images")
 
 # Load a random image from the images folder
