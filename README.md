@@ -23,8 +23,9 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
 
 * Details:(https://www.cnblogs.com/houyong/p/10266228.html)
  
-3.Download trained weights
+3.Download pre-trained weights
 ===
+mask_rcnn_coco.h5
 * BaiDuYun:https://pan.baidu.com/s/1CmcfVleyw7QpVZRo3JxS2w code:tf7f
     
     
